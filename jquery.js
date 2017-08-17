@@ -44,7 +44,7 @@
 			imgObj.src = src;
 
 		});
-	};
+	};   
 
 	/* $.fn.extend -> $('#img').preload
 	 $.extend   -> $.preload() */
